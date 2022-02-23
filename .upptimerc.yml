@@ -15,7 +15,7 @@ sites:
     url: https://mainnet.umamiwallet.com/monitor/blocks
   - name: Umami API hangzhounet 
     url: https://hangzhounet.umamiwallet.com/monitor/blocks
-  - name: Umami API mainnithacanetet 
+  - name: Umami API ithacanet 
     url: https://ithacanet.umamiwallet.com/monitor/blocks
 
 
