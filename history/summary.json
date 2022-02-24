@@ -41,18 +41,19 @@
     "icon": "https://favicons.githubusercontent.com/api.umamiwallet.com",
     "slug": "umami-api-ithacanet-legacy",
     "status": "down",
-    "uptime": "0.46%",
-    "uptimeDay": "0.46%",
-    "uptimeWeek": "0.46%",
-    "uptimeMonth": "0.46%",
-    "uptimeYear": "0.46%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 91,
     "timeDay": 91,
     "timeWeek": 91,
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2022-02-23": 4
+      "2022-02-24": 68,
+      "2022-02-23": 44
     }
   },
   {
@@ -79,18 +80,19 @@
     "icon": "https://favicons.githubusercontent.com/hangzhounet.umamiwallet.com",
     "slug": "umami-api-hangzhounet",
     "status": "down",
-    "uptime": "11.62%",
-    "uptimeDay": "11.62%",
-    "uptimeWeek": "11.62%",
-    "uptimeMonth": "11.62%",
-    "uptimeYear": "11.62%",
+    "uptime": "0.46%",
+    "uptimeDay": "0.46%",
+    "uptimeWeek": "0.46%",
+    "uptimeMonth": "0.46%",
+    "uptimeYear": "0.46%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 4
+      "2022-02-24": 68,
+      "2022-02-23": 43
     }
   },
   {
@@ -99,18 +101,19 @@
     "icon": "https://favicons.githubusercontent.com/ithacanet.umamiwallet.com",
     "slug": "umami-api-ithacanet",
     "status": "down",
-    "uptime": "81.02%",
-    "uptimeDay": "81.02%",
-    "uptimeWeek": "81.02%",
-    "uptimeMonth": "81.02%",
-    "uptimeYear": "81.02%",
+    "uptime": "0.45%",
+    "uptimeDay": "0.45%",
+    "uptimeWeek": "0.45%",
+    "uptimeMonth": "0.45%",
+    "uptimeYear": "0.45%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 0
+      "2022-02-24": 68,
+      "2022-02-23": 39
     }
   }
 ]
