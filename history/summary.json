@@ -4,19 +4,19 @@
     "url": "https://api.umamiwallet.com/mainnet/monitor/blocks",
     "icon": "https://favicons.githubusercontent.com/api.umamiwallet.com",
     "slug": "umami-api-mainnet-legacy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 828,
-    "timeDay": 678,
-    "timeWeek": 792,
-    "timeMonth": 828,
-    "timeYear": 828,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "94.12%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 823,
+    "timeDay": 694,
+    "timeWeek": 785,
+    "timeMonth": 823,
+    "timeYear": 823,
     "dailyMinutesDown": {
-      "2022-03-09": 1
+      "2022-03-09": 85
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 138,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2022-03-09": 895,
+      "2022-03-09": 980,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
@@ -109,7 +109,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-09": 895,
+      "2022-03-09": 980,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
@@ -143,7 +143,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-09": 895,
+      "2022-03-09": 980,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
