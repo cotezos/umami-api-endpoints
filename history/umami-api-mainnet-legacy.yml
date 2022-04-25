@@ -1,7 +1,7 @@
 url: https://api.umamiwallet.com/mainnet/monitor/blocks
-status: down
-code: 503
-responseTime: 524
-lastUpdated: 2022-04-25T07:48:24.521Z
+status: up
+code: 200
+responseTime: 627
+lastUpdated: 2022-04-25T09:40:18.868Z
 startTime: Wed Feb 23 2022 23:16:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
