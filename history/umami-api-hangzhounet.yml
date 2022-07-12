@@ -1,7 +1,7 @@
 url: https://hangzhounet.umamiwallet.com/monitor/blocks
-status: up
-code: 200
-responseTime: 498
-lastUpdated: 2022-07-12T18:55:21.596Z
+status: down
+code: 404
+responseTime: 501
+lastUpdated: 2022-07-12T19:21:23.791Z
 startTime: Wed Feb 23 2022 23:16:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
