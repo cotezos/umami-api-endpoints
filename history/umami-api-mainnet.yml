@@ -1,7 +1,7 @@
 url: https://mainnet.umamiwallet.com/monitor/blocks
-status: up
-code: 200
-responseTime: 865
-lastUpdated: 2022-09-24T23:23:37.527Z
+status: down
+code: 503
+responseTime: 406
+lastUpdated: 2022-09-25T03:23:35.453Z
 startTime: Wed Feb 23 2022 23:16:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
