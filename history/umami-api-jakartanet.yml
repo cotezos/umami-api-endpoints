@@ -1,7 +1,7 @@
 url: https://jakartanet.umamiwallet.com/monitor/blocks
-status: down
-code: 404
-responseTime: 722
-lastUpdated: 2022-11-28T06:58:42.061Z
+status: up
+code: 200
+responseTime: 5587
+lastUpdated: 2022-11-28T07:24:43.859Z
 startTime: Thu Aug 11 2022 18:20:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
