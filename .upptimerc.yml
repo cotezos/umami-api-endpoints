@@ -7,8 +7,11 @@ sites:
     url: https://mainnet.umamiwallet.com/monitor/blocks
   - name: Umami API ghostnet 
     url: https://ghostnet.umamiwallet.com/monitor/blocks
-  - name: Umami API jakartanet 
-    url: https://jakartanet.umamiwallet.com/monitor/blocks
+    
+  - name: Umami API kathmandunet 
+    url: https://kathmandunet.umamiwallet.com/monitor/blocks
+  - name: Umami API limanet 
+    url: https://limanet.umamiwallet.com/monitor/blocks
 
 
 status-website:
