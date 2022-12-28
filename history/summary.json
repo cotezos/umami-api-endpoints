@@ -47,18 +47,19 @@
     "url": "https://ghostnet.umamiwallet.com/monitor/blocks",
     "icon": "https://icons.duckduckgo.com/ip3/ghostnet.umamiwallet.com.ico",
     "slug": "umami-api-ghostnet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 638,
-    "timeDay": 765,
-    "timeWeek": 641,
-    "timeMonth": 614,
-    "timeYear": 638,
+    "time": 637,
+    "timeDay": 673,
+    "timeWeek": 633,
+    "timeMonth": 613,
+    "timeYear": 637,
     "dailyMinutesDown": {
+      "2022-12-28": 0,
       "2022-09-17": 49
     }
   },
@@ -67,35 +68,39 @@
     "url": "https://kathmandunet.umamiwallet.com/monitor/blocks",
     "icon": "https://icons.duckduckgo.com/ip3/kathmandunet.umamiwallet.com.ico",
     "slug": "umami-api-kathmandunet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 729,
-    "timeWeek": 644,
-    "timeMonth": 604,
-    "timeYear": 604,
-    "dailyMinutesDown": {}
+    "time": 603,
+    "timeDay": 655,
+    "timeWeek": 636,
+    "timeMonth": 603,
+    "timeYear": 603,
+    "dailyMinutesDown": {
+      "2022-12-28": 0
+    }
   },
   {
     "name": "Umami API limanet",
     "url": "https://limanet.umamiwallet.com/monitor/blocks",
     "icon": "https://icons.duckduckgo.com/ip3/limanet.umamiwallet.com.ico",
     "slug": "umami-api-limanet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 771,
-    "timeWeek": 616,
-    "timeMonth": 602,
-    "timeYear": 602,
-    "dailyMinutesDown": {}
+    "time": 601,
+    "timeDay": 665,
+    "timeWeek": 609,
+    "timeMonth": 601,
+    "timeYear": 601,
+    "dailyMinutesDown": {
+      "2022-12-28": 0
+    }
   }
 ]
