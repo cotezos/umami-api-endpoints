@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.umamiwallet.com.ico",
     "slug": "umami-api-mainnet",
     "status": "up",
-    "uptime": "98.23%",
+    "uptime": "98.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -67,17 +67,19 @@
     "url": "https://limanet.umamiwallet.com/monitor/blocks",
     "icon": "https://icons.duckduckgo.com/ip3/limanet.umamiwallet.com.ico",
     "slug": "umami-api-limanet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 652,
-    "timeDay": 478,
-    "timeWeek": 658,
-    "timeMonth": 616,
-    "timeYear": 652,
-    "dailyMinutesDown": {}
+    "time": 651,
+    "timeDay": 472,
+    "timeWeek": 634,
+    "timeMonth": 610,
+    "timeYear": 651,
+    "dailyMinutesDown": {
+      "2023-03-08": 0
+    }
   }
 ]
