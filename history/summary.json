@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.umamiwallet.com.ico",
     "slug": "umami-api-mainnet",
     "status": "up",
-    "uptime": "98.30%",
+    "uptime": "98.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.21%",
-    "time": 695,
-    "timeDay": 528,
-    "timeWeek": 628,
+    "uptimeYear": "98.26%",
+    "time": 694,
+    "timeDay": 454,
+    "timeWeek": 586,
     "timeMonth": 578,
     "timeYear": 637,
     "dailyMinutesDown": {
@@ -36,8 +36,7 @@
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
-      "2022-03-25": 1440,
-      "2022-03-24": 1440
+      "2022-03-25": 1440
     }
   },
   {
@@ -51,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.91%",
-    "time": 674,
-    "timeDay": 501,
-    "timeWeek": 853,
-    "timeMonth": 794,
-    "timeYear": 674,
+    "time": 673,
+    "timeDay": 486,
+    "timeWeek": 832,
+    "timeMonth": 793,
+    "timeYear": 673,
     "dailyMinutesDown": {
       "2023-03-09": 154,
       "2023-03-08": 85,
@@ -73,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.83%",
-    "time": 665,
-    "timeDay": 489,
-    "timeWeek": 993,
-    "timeMonth": 696,
-    "timeYear": 665,
+    "time": 674,
+    "timeDay": 1781,
+    "timeWeek": 1145,
+    "timeMonth": 739,
+    "timeYear": 674,
     "dailyMinutesDown": {
       "2023-03-09": 154,
       "2023-03-08": 125
