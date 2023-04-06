@@ -60,17 +60,19 @@
     "url": "https://mumbainet.umamiwallet.com/monitor/blocks",
     "icon": "https://icons.duckduckgo.com/ip3/mumbainet.umamiwallet.com.ico",
     "slug": "umami-api-mumbainet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 880,
-    "timeDay": 1970,
-    "timeWeek": 880,
-    "timeMonth": 880,
-    "timeYear": 880,
-    "dailyMinutesDown": {}
+    "time": 833,
+    "timeDay": 1237,
+    "timeWeek": 833,
+    "timeMonth": 833,
+    "timeYear": 833,
+    "dailyMinutesDown": {
+      "2023-04-06": 0
+    }
   }
 ]
