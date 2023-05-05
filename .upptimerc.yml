@@ -16,15 +16,15 @@ sites:
 #  - name: Umami API mumbainet 
 #    url: https://mumbainet.umamiwallet.com/monitor/blocks
 
-  - name: QA Umami API mainnet (QA: for testing, do not use)
-    url: https://mainnet-qa.umamiwallet.com/monitor/blocks
-  - name: QA Umami API ghostnet (QA: for testing, do not use)
-    url: https://ghostnet-qa.umamiwallet.com/monitor/blocks
+#   - name: QA Umami API mainnet (QA: for testing, do not use)
+#     url: https://mainnet-qa.umamiwallet.com/monitor/blocks
+#   - name: QA Umami API ghostnet (QA: for testing, do not use)
+#     url: https://ghostnet-qa.umamiwallet.com/monitor/blocks
     
-    - name: DEV Umami API mainnet (DEV: no guaranty, do not use)
-    url: https://mainnet-dev.umamiwallet.com/monitor/blocks
-  - name: DEV Umami API ghostnet (DEV: no guaranty, do not use)
-    url: https://ghostnet-dev.umamiwallet.com/monitor/blocks
+#     - name: DEV Umami API mainnet (DEV: no guaranty, do not use)
+#     url: https://mainnet-dev.umamiwallet.com/monitor/blocks
+#   - name: DEV Umami API ghostnet (DEV: no guaranty, do not use)
+#     url: https://ghostnet-dev.umamiwallet.com/monitor/blocks
       
 
 
