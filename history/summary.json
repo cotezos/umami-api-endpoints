@@ -11,17 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 690,
-    "timeDay": 518,
-    "timeWeek": 880,
-    "timeMonth": 679,
+    "timeDay": 496,
+    "timeWeek": 840,
+    "timeMonth": 673,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2023-01-25": 18,
       "2022-10-28": 401,
       "2022-09-25": 81,
       "2022-09-23": 25,
-      "2022-05-22": 38,
-      "2022-05-06": 49
+      "2022-05-22": 38
     }
   },
   {
@@ -30,15 +29,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghostnet.umamiwallet.com.ico",
     "slug": "umami-api-ghostnet",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 681,
-    "timeDay": 588,
-    "timeWeek": 1054,
-    "timeMonth": 740,
+    "timeDay": 648,
+    "timeWeek": 1041,
+    "timeMonth": 741,
     "timeYear": 681,
     "dailyMinutesDown": {
       "2023-03-09": 154,
