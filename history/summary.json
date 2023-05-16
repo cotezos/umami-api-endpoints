@@ -50,9 +50,9 @@
     "url": "https://mainnet-qa.umamiwallet.com/monitor/blocks",
     "icon": "https://icons.duckduckgo.com/ip3/mainnet-qa.umamiwallet.com.ico",
     "slug": "qa-umami-api-mainnet-testing-do-not-use",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,7 +61,9 @@
     "timeWeek": 607,
     "timeMonth": 607,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-16": 0
+    }
   },
   {
     "name": "QA Umami API ghostnet - testing - do not use",
